@@ -1,5 +1,5 @@
 # TributePage
 
-This project is made using HTML, CSS, Sass.
+This project is made with HTML, CSS and Sass.
 
-It was made as an assignment for freeCodeCamp Responsive Web Design course. You can [View here](https://davidpavlovic.github.io/TributePage/) project and [View here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/) you can see requirements for the assignment.
+It was made as an assignment for freeCodeCamp Responsive Web Design course. You can [view here](https://davidpavlovic.github.io/TributePage/) project and you can see requirements for project [here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/).
